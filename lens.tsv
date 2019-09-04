@@ -1,25 +1,25 @@
 Age	Spectacle prescription	Astigmatism	Tear production rate	recommended lenses
-Young	Myope	NO	Reduced	None
-Young	Myope	NO	Normal	Soft
-Young	Myope	Yes	Reduced	None
-Young	Myope	Yes	Normal	Hard
-Young	Hypermetrope	NO	Reduced	None
-Young	Hypermetrope	NO	Normal	Soft
-Young	Hypermetrope	Yes	Reduced	None
-Young	Hypermetrope	Yes	Normal	Hord
-Pre-presbyopic	Myope	NO	Reduced	None
-Pre-presbyopic	Myope	NO	Normal	Soft
-Pre-presbyopic	Myope	Yes	Reduced	None
-Pre-presbyopic	Myope	Yes	Normal	Hard
-Pre-presbyopic	Hypermetrope	NO	Reduced	None
-Pre-presbyopic	Hypermetrope	NO	Normal	Soft
-Pre-presbyopic	Hypermetrope	Yes	Reduced	None
-Pre-presbyopic	Hypermetrope	Yes	Normal	Hard
-Presbyopic	Myope	NO	Reduced	None
-Presbyopic	Myope	NO	Normal	Soft
-Presbyopic	Myope	Yes	Reduced	None
-Presbyopic	Myope	Yes	Normal	Hard
-Presbyopic	Hypermetrope	NO	Reduced	None
-Presbyopic	Hypermetrope	NO	Normal	Soft
-Presbyopic	Hypermetrope	Yes	Reduced	None
-Presbyopic	Hypermetrope	Yes	Normal	Hard
+1  1  1  1  1  3
+2  1  1  1  2  2
+3  1  1  2  1  3
+4  1  1  2  2  1
+5  1  2  1  1  3
+6  1  2  1  2  2
+7  1  2  2  1  3
+8  1  2  2  2  1
+9  2  1  1  1  3
+10 2  1  1  2  2
+11 2  1  2  1  3
+12 2  1  2  2  1
+13 2  2  1  1  3
+14 2  2  1  2  2
+15 2  2  2  1  3
+16 2  2  2  2  3
+17 3  1  1  1  3
+18 3  1  1  2  3
+19 3  1  2  1  3
+20 3  1  2  2  1
+21 3  2  1  1  3
+22 3  2  1  2  2
+23 3  2  2  1  3
+24 3  2  2  2  3
