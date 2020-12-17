@@ -1,4 +1,4 @@
-gender	dob	occupation	work_exp	salary	own_house	children
+gender	birthdate	occupation	work_exp	salary	own_house	children
 M	31-Jul-89	nurse	2.2	223700	TRUE	1
 	30-Oct-92	dentist	6.7	121100	TRUE	1
 F		accountant	9		FALSE	2
